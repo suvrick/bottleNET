@@ -1,0 +1,8 @@
+C:\Users\suvrick\Desktop\dotnet\bottle_solution\bottlelib\bin\Release\netcoreapp3.1\bottlelib.deps.json
+C:\Users\suvrick\Desktop\dotnet\bottle_solution\bottlelib\bin\Release\netcoreapp3.1\bottlelib.dll
+C:\Users\suvrick\Desktop\dotnet\bottle_solution\bottlelib\bin\Release\netcoreapp3.1\bottlelib.pdb
+C:\Users\suvrick\Desktop\dotnet\bottle_solution\bottlelib\obj\Release\netcoreapp3.1\bottlelib.AssemblyInfoInputs.cache
+C:\Users\suvrick\Desktop\dotnet\bottle_solution\bottlelib\obj\Release\netcoreapp3.1\bottlelib.AssemblyInfo.cs
+C:\Users\suvrick\Desktop\dotnet\bottle_solution\bottlelib\obj\Release\netcoreapp3.1\bottlelib.dll
+C:\Users\suvrick\Desktop\dotnet\bottle_solution\bottlelib\obj\Release\netcoreapp3.1\bottlelib.pdb
+C:\Users\suvrick\Desktop\dotnet\bottle_solution\bottlelib\obj\Release\netcoreapp3.1\bottlelib.csproj.CoreCompileInputs.cache
